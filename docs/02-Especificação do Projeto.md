@@ -7,6 +7,18 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+(foto)
+João Madureira , 40 anos – Belo Horizonte.
+
+João Madureira é empreendedor de fundador da EcoFibra Sustentável Ltda.
+A EcoFibra Sustentável é uma empresa que busca promover a moda sustentável e a economia circular, utilizando materiais reciclados e sustentáveis em sua produção. A empresa tem como objetivo produzir roupas de alta qualidade, durabilidade e design, com o menor impacto ambiental possível.
+
+Necessidade: A empresa acredita que o reuso de roupas é uma das melhores formas de reduzir o impacto ambiental da indústria têxtil, além de incentivar a economia circular e a conscientização do consumo consciente.
+
+Perfil de compra: A EcoFibra Sustentável busca brechós que ofereçam peças de qualidade, com bom estado de conservação e que estejam alinhadas com o conceito de moda sustentável da empresa. 
+
+Motivação: A EcoFibra Sustentável busca contribuir para a preservação do meio ambiente e para a conscientização da sociedade sobre a importância da moda sustentável. 
+
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
