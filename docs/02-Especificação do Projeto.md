@@ -9,7 +9,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 (FOTO)
-Nome: Maria, 40 anos - Proprietária de uma loja de brechó
+Nome: Maria, 40 anos - Proprietária de uma loja de brechó.
 
 Maria é uma empreendedora apaixonada por moda e sustentabilidade. Ela acredita que a moda pode ser uma forma de expressão pessoal e que também pode ter um impacto positivo no meio ambiente. Ela também é uma pessoa empática e valoriza a experiência de seus clientes, buscando criar um ambiente acolhedor e amigável em sua loja.
 
@@ -21,7 +21,7 @@ Desafios: Como proprietária de uma loja de brechó, Maria enfrenta vários desa
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 (FOTO)
-Nome: Jonas,32 anos - Designer gráfico.
+Nome: Jonas, 32 anos - Designer gráfico.
 
 Jonas é um designer gráfico criativo que busca um estilo único e autêntico. Ele valoriza a originalidade e acredita que suas roupas são uma forma de expressar sua personalidade criativa. Ele também é uma pessoa consciente da sustentabilidade e está preocupado com o impacto de suas escolhas no meio ambiente. Por isso, ele prefere comprar roupas usadas em vez de comprar novas, já que isso ajuda a reduzir o desperdício de recursos naturais.
 
