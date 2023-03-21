@@ -9,7 +9,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 (FOTO)
-Nome: Maria, 40 ano - Proprietária de uma loja de brechó
+Nome: Maria, 40 anos - Proprietária de uma loja de brechó
 
 Maria é uma empreendedora apaixonada por moda e sustentabilidade. Ela acredita que a moda pode ser uma forma de expressão pessoal e que também pode ter um impacto positivo no meio ambiente. Ela também é uma pessoa empática e valoriza a experiência de seus clientes, buscando criar um ambiente acolhedor e amigável em sua loja.
 
