@@ -20,6 +20,18 @@ Objetivos: Ela está sempre em busca de novas peças e tendências para sua loja
 Desafios: Como proprietária de uma loja de brechó, Maria enfrenta vários desafios diários. Ela também precisa lidar com a concorrência de outras lojas de brechó e de grandes varejistas. Além disso, ela se preocupa em promover a sustentabilidade e a responsabilidade social em sua loja, o que pode ser um desafio em uma sociedade que ainda não valoriza tanto esses aspectos. Maria precisa ser criativa e persistente para enfrentar esses desafios e garantir o sucesso de sua loja de brechó.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+(FOTO)
+Nome: Jonas,32 anos - Designer gráfico.
+
+Jonas é um designer gráfico criativo que busca um estilo único e autêntico. Ele valoriza a originalidade e acredita que suas roupas são uma forma de expressar sua personalidade criativa. Ele também é uma pessoa consciente da sustentabilidade e está preocupado com o impacto de suas escolhas no meio ambiente. Por isso, ele prefere comprar roupas usadas em vez de comprar novas, já que isso ajuda a reduzir o desperdício de recursos naturais.
+
+Jonas é está sempre busca peças de qualidade que possam durar muito tempo. Ele não se importa em pagar um pouco mais por peças que valem a pena, desde que estejam em boas condições. Ele também é um cliente que gosta de explorar e descobrir novas lojas de brechó, e adora garimpar peças raras.
+ 
+Objetivos: Jonas prefere lojas que tenham uma boa seleção de roupas vintage, com um estilo único e autêntico. Jonas espera encontrar um brechó que esteja alinhado com seus valores pessoais, que seja comprometido com a sustentabilidade e a responsabilidade social.
+
+Desafios: Como Jonas é um cliente exigente, ele precisa encontrar um brechó que ofereça peças de qualidade e em boas condições. Ele espera encontrar uma boa seleção de roupas exclusivas, o que pode ser um desafio em alguns brechós. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
